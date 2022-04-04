@@ -8,6 +8,8 @@ El formato de entrega es en Jupyter Notebook.
 
 El ejercicio está resuelto en `ejercicio1.ipynb`.
 
+Las interpretaciones estan basadas en `output\Clusters_by_color.png`, para consolidarlas con los colores
+
 
 ## Instalación (para uso local)
 
